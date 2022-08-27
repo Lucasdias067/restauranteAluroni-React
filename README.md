@@ -8,7 +8,7 @@
 ### `Configuração com o Eslint;`
 ### `Componentização e props;`
 
-##IMAGENS DO PROJETO:
+## IMAGENS DO PROJETO:
 
 ![Aluroni - Pessoal — Microsoft​ Edge 25_08_2022 19_51_10](https://user-images.githubusercontent.com/101364762/186802202-928d5bb6-ab0e-41cd-8fbe-5592eaf70ae2.png)
 
