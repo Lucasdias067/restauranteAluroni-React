@@ -1,6 +1,10 @@
 # PROJETO ALURONI
 
+<br>
+
 ## FOI UTILIZADO:
+
+<br>
 
 ### `Hooks;`
 ### `React-Router: useNavigation, useParams e Outlet;`
