@@ -2,10 +2,13 @@
 
 ## FOI UTILIZADO:
 
-### `npm start`
+### `Hooks;`
+### `React-Router: useNavigation, useParams e Outlet;`
+### `Sass;`
+### `Configuração com o Eslint;`
+### `Componentização e props;`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+##IMAGENS DO PROJETO:
 
 ![Aluroni - Pessoal — Microsoft​ Edge 25_08_2022 19_51_10](https://user-images.githubusercontent.com/101364762/186802202-928d5bb6-ab0e-41cd-8fbe-5592eaf70ae2.png)
 
