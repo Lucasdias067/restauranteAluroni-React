@@ -6,7 +6,7 @@
 
 <br>
 
-### `Hooks;`
+### `Hooks: useState;`
 ### `React-Router: useNavigation, useParams e Outlet;`
 ### `Sass com responsividade;`
 ### `Configuração com o Eslint;`
