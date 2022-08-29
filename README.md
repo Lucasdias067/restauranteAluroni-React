@@ -2,7 +2,7 @@
 
 <br>
 
-## FOI UTILIZADO:
+## 🌌 TECNOLOGIAS:
 
 <br>
 
