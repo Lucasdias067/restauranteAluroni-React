@@ -6,11 +6,11 @@
 
 <br>
 
-### `Hooks: useState;`
-### `React-Router: useNavigation, useParams e Outlet;`
-### `Sass com responsividade;`
-### `Configuração com o Eslint;`
-### `Componentização e props;`
+✅Hooks: useState;
+✅React-Router: useNavigation, useParams e Outlet;
+✅Sass com responsividade;
+✅Configuração com o Eslint;
+✅Componentização e props;
 
 <br>
 <br>
