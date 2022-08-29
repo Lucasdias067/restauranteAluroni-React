@@ -8,7 +8,7 @@
 
 ✅Hooks: useState;<br>
 ✅React-Router: useNavigation, useParams e Outlet;<br>
-✅Sass com responsivid<br>
+✅Sass com responsividade<br>
 ✅Configuração com o Eslint;<br>
 ✅Componentização e props;<br>
 
