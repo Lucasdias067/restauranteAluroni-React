@@ -26,3 +26,19 @@
 ![Aluroni - Pessoal — Microsoft​ Edge 25_08_2022 19_51_41](https://user-images.githubusercontent.com/101364762/186802233-32402505-45aa-4213-a99a-39fd794502e0.png)
 
 ![Aluroni - Pessoal — Microsoft​ Edge 25_08_2022 19_51_27](https://user-images.githubusercontent.com/101364762/186802239-a4c43b1c-0444-4c2d-a840-146a35d09c62.png)
+
+<br><br>
+
+<ol>
+    <li> A primeira tela é a página principal, onde mostra alguns pratos e a nossa localização embaixo.;
+    </li>
+    <li> No menu temos a opção de cardápio, onde tem vários tipos de pratos e que podemos filtrar pelo preço, porção ou por quantidade de pessoas.;
+    </li>
+    <li> A outra página fala sobre nós, o nosso tipo de comida e cárdapio.;
+    </li>
+</ol>
+<br> <br>
+
+# Rodando o projeto:
+Para rodar o projeto, apenas clone e dê um <b>npm install</b> e então <b>npm start</b>.
+<br/>
