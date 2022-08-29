@@ -30,11 +30,11 @@
 <br><br>
 
 <ol>
-    <li> A primeira tela é a página principal, onde mostra alguns pratos e a nossa localização embaixo.;
+    <li> A primeira tela é a página principal, onde mostra alguns pratos e a nossa localização embaixo;
     </li>
-    <li> No menu temos a opção de cardápio, onde tem vários tipos de pratos e que podemos filtrar pelo preço, porção ou por quantidade de pessoas.;
+    <li> No menu temos a opção de cardápio, onde tem vários tipos de pratos e que podemos filtrar pelo preço, porção ou por quantidade de pessoas;
     </li>
-    <li> A outra página fala sobre nós, o nosso tipo de comida e cárdapio.;
+    <li> A outra página fala sobre nós, o nosso tipo de comida e cardápio;
     </li>
 </ol>
 <br> <br>
