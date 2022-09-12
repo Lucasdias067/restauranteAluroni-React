@@ -29,6 +29,7 @@
 
 <br><br>
 
+## 📋 Descrição do projeto
 <ol>
     <li> A primeira tela é a página principal, onde mostra alguns pratos e a nossa localização embaixo;
     </li>
