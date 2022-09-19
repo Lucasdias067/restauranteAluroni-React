@@ -41,5 +41,5 @@
 <br> <br>
 
 # Rodando o projeto:
-Para rodar o projeto, apenas clone e dê um <b>npm install</b> e então <b>npm start</b>.
+Para rodar o projeto, apenas clone e dê um <b>npm install</b>, <b>npm i sass</b>, <b>npm i react-router-dom</b> e então <b>npm start</b>.
 <br/>
