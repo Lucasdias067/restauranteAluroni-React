@@ -19,11 +19,8 @@
     <li> A outra página fala sobre nós, o nosso tipo de comida e cardápio;
     </li>
 </ol>
-<br>
 
 ## 🌌 TECNOLOGIAS:
-
-<br>
 
 ✅Hooks: useState;<br>
 ✅React-Router: useNavigation, useParams e Outlet;<br>
@@ -33,4 +30,3 @@
 
 # Rodando o projeto:
 Para rodar o projeto, apenas clone e dê um <b>npm install</b>, <b>npm i sass</b>, <b>npm i react-router-dom</b> e então <b>npm start</b>.
-<br/>
