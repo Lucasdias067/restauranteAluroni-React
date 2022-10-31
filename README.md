@@ -18,7 +18,7 @@
     </li>
 </ol>
 
-## 🌌 TECNOLOGIAS:
+## 🌌 Tecnologias:
 
 ✅Hooks: useState;<br>
 ✅React-Router: useNavigation, useParams e Outlet;<br>
@@ -26,5 +26,5 @@
 ✅Configuração com o ESLint;<br>
 ✅Componentização e props;<br>
 
-# Rodando o projeto:
+## Rodando o projeto:
 Para rodar o projeto, apenas clone e dê um <b>npm install</b>, <b>npm i sass</b>, <b>npm i react-router-dom</b> e então <b>npm start</b>.
