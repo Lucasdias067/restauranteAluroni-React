@@ -1,18 +1,6 @@
 # 👨🏽‍💻 PROJETO ALURONI
 
 <br>
-
-## 🌌 TECNOLOGIAS:
-
-<br>
-
-✅Hooks: useState;<br>
-✅React-Router: useNavigation, useParams e Outlet;<br>
-✅Sass com responsividade<br>
-✅Configuração com o ESLint;<br>
-✅Componentização e props;<br>
-
-<br>
 <br>
 
 ## 📷 IMAGENS DO PROJETO:
@@ -39,6 +27,16 @@
     </li>
 </ol>
 <br> <br>
+
+## 🌌 TECNOLOGIAS:
+
+<br>
+
+✅Hooks: useState;<br>
+✅React-Router: useNavigation, useParams e Outlet;<br>
+✅Sass com responsividade<br>
+✅Configuração com o ESLint;<br>
+✅Componentização e props;<br>
 
 # Rodando o projeto:
 Para rodar o projeto, apenas clone e dê um <b>npm install</b>, <b>npm i sass</b>, <b>npm i react-router-dom</b> e então <b>npm start</b>.
