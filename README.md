@@ -8,8 +8,6 @@
 
 ![Aluroni - Pessoal — Microsoft​ Edge 25_08_2022 19_51_27](https://user-images.githubusercontent.com/101364762/186802239-a4c43b1c-0444-4c2d-a840-146a35d09c62.png)
 
-<br>
-
 ## 📋 Descrição do projeto
 <ol>
     <li> A primeira tela é a página principal, onde mostra alguns pratos e a nossa localização embaixo;
