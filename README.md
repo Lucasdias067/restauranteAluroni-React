@@ -8,7 +8,7 @@
 
 ![Aluroni - Pessoal — Microsoft​ Edge 25_08_2022 19_51_27](https://user-images.githubusercontent.com/101364762/186802239-a4c43b1c-0444-4c2d-a840-146a35d09c62.png)
 
-<br><br>
+<br>
 
 ## 📋 Descrição do projeto
 <ol>
@@ -19,7 +19,7 @@
     <li> A outra página fala sobre nós, o nosso tipo de comida e cardápio;
     </li>
 </ol>
-<br> <br>
+<br>
 
 ## 🌌 TECNOLOGIAS:
 
