@@ -12,8 +12,8 @@ export default function Inicio() {
   pratosRecomendados = pratosRecomendados.sort(() => 0.5 - Math.random()).splice(0, 3);
   const navigate = useNavigate();
 
-  function redirecionarPaginas (prato: Prato) {
-    navigate(`/prato/${prato.id}`, {state: {prato}, replace: false});
+  function redirecionarPaginas(prato: Prato) {
+    navigate(`/prato/${prato.id}`, { state: { prato }, replace: false });
   }
 
   return (
@@ -28,7 +28,7 @@ export default function Inicio() {
               <img src={item.photo} alt={item.title} />
             </div>
 
-            <button 
+            <button
               onClick={() => redirecionarPaginas(item)}
               className={styles.recomendado__botao}>
               Ver mais

@@ -12,12 +12,20 @@
     > p {
       font-family: 'Josefin Sans', sans-serif;
     }
+    @media (max-width: 800px) {
+      font-size: 1rem;
+    }
   }
+  @media (max-width: 1260px) {
+    flex-direction: column;
+  }
+
+
 }
 
 .imagens {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 20px;
   justify-content: space-between;
   &__imagem {

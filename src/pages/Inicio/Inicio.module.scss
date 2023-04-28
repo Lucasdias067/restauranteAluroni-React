@@ -1,4 +1,5 @@
 @import 'styles/variaveis';
+@import 'styles/breakpoints';
 
 .recomendados {
   border-radius: 2px;
@@ -6,6 +7,10 @@
   flex-wrap: wrap;
   gap: 30px;
   justify-content: space-between;
+
+  @media (max-width: $desktop_xsm) {
+    justify-content: center;
+  }
 }
 
 .recomendado {

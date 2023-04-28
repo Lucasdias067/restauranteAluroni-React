@@ -1,5 +1,5 @@
 @import "styles/variaveis";
-@import "styles/breakpoints";
+@import "styles/_breakpoints";
 
 .header {
   align-items: center;
@@ -9,19 +9,33 @@
   display: flex;
   height: 300px;
   padding: 0px $padding-horizontal;
+
   @media (max-width: $desktop_xsm) {
     padding: 0px $padding-horizontal-mobile;
   }
+
   @media (min-width: $desktop_xsm) and (max-width: $desktop_sm) {
     padding: 0px $padding-horizontal-sm;
   }
+
   @media (min-width: $desktop_sm) and (max-width: $desktop_md) {
     padding: 0px $padding-horizontal-md;
   }
+  
   &__text {
     color: white;
     font-size: 5rem;
     min-width: 400px;
     width: 40%;
+    font-weight: bold;
+
+    @media (max-width: $desktop_xsm) {
+      font-size: 3rem;
+      min-width: 20%;
+    }
+
+    @media (max-width: $mobile) {
+      font-size: 2.3rem;
+    }
   }
 }

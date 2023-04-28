@@ -4,19 +4,32 @@
 .menu {
   display: flex;
   padding: 20px $padding-horizontal;
+
+  @media (max-width: $mobile) {
+    flex-direction: column;
+    align-items: center;
+  }
+
   @media (max-width: $desktop_xsm) {
     padding: 20px $padding-horizontal-mobile;
   }
+
   @media (min-width: $desktop_xsm) and (max-width: $desktop_sm) {
     padding: 20px $padding-horizontal-sm;
   }
+
   @media (min-width: $desktop_sm) and (max-width: $desktop_md) {
     padding: 20px $padding-horizontal-md;
   }
+  
   &__list {
     align-items: center;
     display: flex;
+    @media (max-width: $mobile) {
+      justify-content: flex-end;
+    }
   }
+
   &__link {
     list-style-type: none;
     padding: 0 20px;
@@ -30,6 +43,9 @@
       &:hover {
         color: $dark-grey;
       }
+    }
+    @media (max-width: $mobile) {
+      padding: 0 5px;
     }
   }
 }
