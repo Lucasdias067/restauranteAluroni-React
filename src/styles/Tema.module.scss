@@ -14,6 +14,12 @@
   }
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .titulo {
   color: $dark;
   font-size: 3rem;

@@ -9,5 +9,9 @@
     justify-content: space-between;
     margin-bottom: 30px;
     width: 100%;
+    @media (max-width: $mobile) {
+      justify-content: center;
+     }
   }
+
 }

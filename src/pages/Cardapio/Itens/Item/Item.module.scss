@@ -13,9 +13,10 @@
     background-color: $grey;
   }
   &__imagem {
-    min-width: 240px;
+    
     @media (max-width: $desktop_xsm) {
       width: 100%;
+      max-width: 200px;
     }
     img {
       border-radius: 8px;
@@ -31,15 +32,16 @@
     margin: 0 20px;
     @media (max-width: $desktop_xsm) {
       flex-direction: row;
-      margin-top: 20px;
       padding: 0;
     }
   }
   &__titulo {
+    text-align: center;
     h2 {
       font-size: 2rem;
       font-weight: bold;
       margin-bottom: 20px;
+      text-align: center;
     }
     p {
       color: $dark-grey;
@@ -47,6 +49,18 @@
       font-weight: 600;
       max-width: 600px;
       margin-bottom: 20px;
-    }
+    } 
+    @media (max-width: $mobile) {
+      height: 300px;
+      display: flex;
+      flex-direction: column;
+    } 
   }
+
+  @media (max-width: $mobile) {
+    min-width: 280px;
+    justify-content: center;
+    align-content: center;
+    height: 640px;
+  } 
 }

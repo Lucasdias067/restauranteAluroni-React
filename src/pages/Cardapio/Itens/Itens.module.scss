@@ -1,7 +1,15 @@
+@import "styles/breakpoints";
+
 .itens {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   gap: 40px;
   width: 100%;
+   @media (max-width: $mobile) {
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: center;
+   }
 }
